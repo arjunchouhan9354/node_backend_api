@@ -1,4 +1,4 @@
-# KI - Morocco - Rest API
+# NODE_BACKEND - Rest API
 
 The node backend API was created using NodeJs and MongoDB, ExpressJs, and Mongoose.
 
