@@ -1,0 +1,4 @@
+.env
+/node_modules
+/logs/
+/logs/.c5a7900ff008ec2f24441d6aa02eaf6cba5b04b4-audit.json

@@ -1,0 +1,10 @@
+{
+  "elastic": {
+    "host": ["https://eslb2.kifwat.net:8080"],
+    "username": "user_name",
+    "password": "es_password"
+  },
+  "jsonSecret": {
+    "key": "dgdsgsdf2342rew.2352sdfsd345sd.23423sdfsewtw"
+  }
+}
